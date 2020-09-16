@@ -6,7 +6,11 @@ Make Magic - Harry Potter REST API
 
 ### Collection Characters
 
-GET ​/makemagic​/api​/v1​/public​/characters - Returns a collection of characters
+GET
+
+​/makemagic​/api​/v1​/public​/characters - Returns a collection of characters
+
+/makemagic/api/v1/public/characters?house=${houseId} - Returns a collection of characters by home
 
 ### Create Character
 
