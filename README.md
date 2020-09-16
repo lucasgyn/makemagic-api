@@ -4,22 +4,22 @@ Make Magic - Harry Potter REST API
 # Swagger - Api Documentation
 /makemagic/api/swagger-ui/
 
-Collection Characters
+### Collection Characters
 
 GET ​/makemagic​/api​/v1​/public​/characters - Returns a collection of characters
 
-Create Character
+### Create Character
 
 POST ​/makemagic​/api​/v1​/public​/characters - Create a new character
 
-Single Character
+### Single Character
 
 GET ​/makemagic​/api​/v1​/public​/characters​/{characterId} - Returns a single character
 
-Update Character
+### Update Character
 
 PUT ​/makemagic​/api​/v1​/public​/characters​/{characterId} - Update a single character
 
-Delete Character
+### Delete Character
 
 DELETE ​/makemagic​/api​/v1​/public​/characters​/{characterId} - Delete a single character
